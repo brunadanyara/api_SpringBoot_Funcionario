@@ -1,6 +1,6 @@
 # Api_SpringBoot_Funcionario
 CRUD Simples, cadastro de funcionário
-<img src="./.github/example/crudsimples.png" width="50%" height="50%" alt="app demo">
+<img src="./example/crudsimples.png" width="50%" height="50%" alt="app demo">
 
 ## Features
 **Back-End**

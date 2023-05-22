@@ -1,0 +1,28 @@
+body {
+    background: lightsteelblue;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(10, 88, 202);
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.container #btnNovo {
+    margin-top: 10px;
+    float: right;
+}
+
+.container #btnVoltar {
+
+}

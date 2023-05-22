@@ -13,12 +13,15 @@ REST API - JSON
 **Back-End**
 
 -**Java** — Java is an object-oriented programming language.
+
 -**Spring Boot** — Spring Boot is an open source framework used to facilitate application configurations.
 
 **Front-End**
 
 -**JavaScript** - JavaScript is a structured, high-level scripting, dynamically typed, multiparadigm, interpreted programming language.
+
 -**HTML** - HTML is a markup language used to build web pages. HTML documents can be interpreted by browsers.
+
 -**CSS** - CSS is called the Cascading Style Sheet language and is used to style elements written in a markup language like HTML.
 
 **API**

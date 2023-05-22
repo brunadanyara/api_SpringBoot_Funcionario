@@ -34,3 +34,4 @@ CRUD Simples, cadastro de funcionário
 1. GET - Default is http://localhost:8080/funcionario or http://localhost:8080/funcionario/id .
 PUT or POST - Default is http://localhost:8080/funcionario .
 DEL - Default is http://localhost:8080/id .
+2. Used JSON format in the application.

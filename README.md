@@ -1,5 +1,5 @@
 # Api_SpringBoot_Funcionario
-CRUD Simples, cadastro de funcionário
+Simple employee registration CRUD.
 
 
 <img src="./example/crudsimples.png" width="50%" height="50%" alt="app demo">
@@ -36,7 +36,8 @@ REST API - JSON
 
 1. Clone this repo using `git clone git@github.com:brunadanyara/api_SpringBoot_Funcionario.git`
 2. Move yourself to the appropriate directory.
-3. Execute Mysql or run this command in your docker: `docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=system -d mysql:8.0`
+3. Execute Mysql or run this command in your docker: `docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=system -d mysql:8.0`.
+4. Enter your mysql connection at backend/src/main/resources/application.properties.
 
 ### Getting started with the backend server
 1. Run Back-end project in Intellij IDE (default is http://localhost:8080).
